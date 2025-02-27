@@ -163,45 +163,4 @@ A cyberpunk-themed space shooter that explores the ethical implications of AI th
 This project is open source and available under the MIT License.
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-
-## 🚀 Play Online
-
-You can play the game online at: `[Your GitHub Pages URL will be here]`
-
-## 📦 Deployment
-
-This game is deployed using GitHub Pages. To deploy your own instance:
-
-1. Fork this repository
-2. Go to your fork's Settings > Pages
-3. Under "Source", select "main" branch
-4. Select "/ (root)" as the folder
-5. Click Save
-6. Wait a few minutes for GitHub to build and deploy your site
-7. Your game will be available at `https://[your-username].github.io/[repository-name]`
-
-### Local Development
-
-To run the game locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/[your-username]/[repository-name].git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd [repository-name]
-   ```
-
-3. Serve the files using a local server. You can use Python's built-in server:
-   ```bash
-   # Python 3
-   python -m http.server 8000
-   # Python 2
-   python -m SimpleHTTPServer 8000
-   ```
-   Or use any other local server of your choice.
-
-4. Open your browser and visit: `http://localhost:8000` 
+Contributions, issues, and feature requests are welcome! 
