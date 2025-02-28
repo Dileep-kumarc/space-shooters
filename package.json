@@ -1,0 +1,23 @@
+{
+  "name": "space-game",
+  "version": "1.0.0",
+  "description": "A cyberpunk-themed space shooter that explores the ethical implications of AI through gameplay mechanics and narrative choices.",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dileep-kumarc/space-shooters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dileep-kumarc/space-shooters/issues"
+  },
+  "homepage": "https://github.com/Dileep-kumarc/space-shooters#readme",
+  "dependencies": {
+    "@capacitor/android": "^7.0.1"
+  }
+}
